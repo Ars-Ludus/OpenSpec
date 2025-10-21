@@ -99,6 +99,7 @@ These tools have built-in OpenSpec commands. Select the OpenSpec integration whe
 | **Kilo Code** | `/openspec-proposal.md`, `/openspec-apply.md`, `/openspec-archive.md` (`.kilocode/workflows/`) |
 | **Windsurf** | `/openspec-proposal`, `/openspec-apply`, `/openspec-archive` (`.windsurf/workflows/`) |
 | **Codex** | `/openspec-proposal`, `/openspec-apply`, `/openspec-archive` (global: `~/.codex/prompts`, auto-installed) |
+| **Gemini** | `/openspec-proposal`, `/openspec-apply`, `/openspec-archive` (`.gemini/commands/`) |
 | **GitHub Copilot** | `/openspec-proposal`, `/openspec-apply`, `/openspec-archive` (`.github/prompts/`) |
 | **Amazon Q Developer** | `@openspec-proposal`, `@openspec-apply`, `@openspec-archive` (`.amazonq/prompts/`) |
 | **Auggie (Augment CLI)** | `/openspec-proposal`, `/openspec-apply`, `/openspec-archive` (`.augment/commands/`) |
@@ -111,7 +112,7 @@ These tools automatically read workflow instructions from `openspec/AGENTS.md`. 
 
 | Tools |
 |-------|
-| Amp • Jules • Gemini CLI • Others |
+| Amp • Jules • Others |
 
 ### Install & Initialize
 

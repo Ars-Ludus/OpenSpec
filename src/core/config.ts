@@ -24,11 +24,12 @@ export const AI_TOOLS: AIToolOption[] = [
   { name: 'Crush', value: 'crush', available: true, successLabel: 'Crush' },
   { name: 'Cursor', value: 'cursor', available: true, successLabel: 'Cursor' },
   { name: 'Factory Droid', value: 'factory', available: true, successLabel: 'Factory Droid' },
-  { name: 'OpenCode', value: 'opencode', available: true, successLabel: 'OpenCode' },
+  { name: 'Gemini', value: 'gemini', available: true, successLabel: 'Gemini' },
+  { name: 'GitHub Copilot', value: 'github-copilot', available: true, successLabel: 'GitHub Copilot' },
   { name: 'Kilo Code', value: 'kilocode', available: true, successLabel: 'Kilo Code' },
+  { name: 'OpenCode', value: 'opencode', available: true, successLabel: 'OpenCode' },
   { name: 'Windsurf', value: 'windsurf', available: true, successLabel: 'Windsurf' },
   { name: 'Codex', value: 'codex', available: true, successLabel: 'Codex' },
-  { name: 'GitHub Copilot', value: 'github-copilot', available: true, successLabel: 'GitHub Copilot' },
   { name: 'Amazon Q Developer', value: 'amazon-q', available: true, successLabel: 'Amazon Q Developer' },
   { name: 'AGENTS.md (works with Amp, VS Code, …)', value: 'agents', available: false, successLabel: 'your AGENTS.md-compatible assistant' }
 ];
